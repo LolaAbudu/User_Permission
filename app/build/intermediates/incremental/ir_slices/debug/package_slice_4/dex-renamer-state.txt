@@ -1,0 +1,4 @@
+#Sat Feb 02 17:14:04 EST 2019
+base.0=/Users/lolaabudu/Downloads/android-advanced-starter-apps-master/WalkMyAndroid-Starter/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex
